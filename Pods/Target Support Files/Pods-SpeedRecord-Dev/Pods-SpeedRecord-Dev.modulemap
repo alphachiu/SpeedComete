@@ -1,0 +1,6 @@
+framework module Pods_SpeedRecord_Dev {
+  umbrella header "Pods-SpeedRecord-Dev-umbrella.h"
+
+  export *
+  module * { export * }
+}
